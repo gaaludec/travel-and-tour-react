@@ -1,7 +1,3 @@
-Apologies for the confusion. Let's create a README file that accurately reflects the setup and implementation of your Travel and Tour project without React Router.
-
----
-
 # Travel and Tour Project
 
 ## Overview
